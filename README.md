@@ -1,5 +1,5 @@
 <!-- LinkedIn Profile Slug Variable (replace with your actual slug) -->
-<!-- LINKEDIN_SLUG="daksh-agrawal-dev" -->
+<!-- LINKEDIN_SLUG="dakshagrawal" -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5&height=120&section=header&descAlign=Y&descAlignY=51" alt="Header Wave"/>
@@ -12,7 +12,7 @@
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Daksh7785&color=00D2FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-    <a href="https://linkedin.com/in/daksh-agrawal-dev">
+    <a href="https://linkedin.com/in/dakshagrawal">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/Daksh7785?tab=followers">
@@ -153,17 +153,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-| Project | Tech Stack | Description | Link |
-|---------|------------|-------------|------|
-| **AI-Augmented Fullstack Boilerplate** | MERN, Tailwind, Claude Code | A robust boilerplate integrated with agentic build pipelines for rapid SaaS deployment. | [View Code](#) |
-| **Campus AI Community Toolkit** | Google Gemini API, React, Node.js | Interactive workshop tools designed for campus adoption of generative AI. | [View Code](#) |
-| **Open Source Contrib Dashboard** | Next.js, GitHub GraphQL API | GSSoC 2026 issue-audit tooling for tracking open source contributions. | [View Code](#) |
-| **UtilityStore E-Commerce** | React, Redux, Node, MongoDB | A full-stack MERN e-commerce application with automated inventory and JWT auth. | [View Code](#) |
-
----
-
 ## 🏆 Open Source Spotlight
 
 <div align="center">
@@ -191,7 +180,7 @@ To enable the contribution snake animation:
 
 <div align="center">
   <p>
-    <a href="https://linkedin.com/in/daksh-agrawal-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://linkedin.com/in/dakshagrawal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://github.com/Daksh7785"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="mailto:daksh.contact@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://twitter.com/Daksh7785"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>
