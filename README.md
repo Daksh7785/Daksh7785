@@ -203,10 +203,10 @@
 
 | Project | Tech Stack | Description | Link |
 |---------|------------|-------------|------|
-| **AI-Augmented Fullstack Boilerplate** | MERN, Tailwind, Claude Code | A robust boilerplate integrated with agentic build pipelines for rapid SaaS deployment. | [View Code](#) |
-| **Campus AI Community Toolkit** | Google Gemini API, React, Node.js | Interactive workshop tools designed for campus adoption of generative AI. | [View Code](#) |
-| **Open Source Contrib Dashboard** | Next.js, GitHub GraphQL API | GSSoC 2026 issue-audit tooling for tracking open source contributions. | [View Code](#) |
-| **UtilityStore E-Commerce** | React, Redux, Node, MongoDB | A full-stack MERN e-commerce application with automated inventory and JWT auth. | [View Code](#) |
+| **HCHO** | Deep Learning, Satellite Data | AI-powered air quality monitoring platform that derives Surface AQI from satellite observations and detects Formaldehyde hotspots. | [View Code](https://github.com/Daksh7785/HCHO) |
+| **MeghMukt** | React, Node.js, API | A cloud-native application focused on meteorological data visualization and weather pattern analysis. | [View Code](https://github.com/Daksh7785/MeghMukt) |
+| **Library Management System** | MERN Stack | A comprehensive digital library management system with inventory tracking, user authentication, and automated book issuing. | [View Code](https://github.com/Daksh7785/library-management-system) |
+| **ThreadCounty** | Next.js, Tailwind CSS | Official hackathon submission for ThreadCounty Web Development Hackathon 2026 featuring a modern, responsive interface. | [View Code](https://github.com/Daksh7785/THREADCOUNTY) |
 
 <br/>
 
