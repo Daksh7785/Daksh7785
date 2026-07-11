@@ -151,7 +151,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Daksh7785&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Daksh7785&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
       </td>
       <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh7785&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
@@ -208,14 +208,7 @@
 | **Library Management System** | MERN Stack | A comprehensive digital library management system with inventory tracking, user authentication, and automated book issuing. | [View Code](https://github.com/Daksh7785/library-management-system) |
 | **ThreadCounty** | Next.js, Tailwind CSS | Official hackathon submission for ThreadCounty Web Development Hackathon 2026 featuring a modern, responsive interface. | [View Code](https://github.com/Daksh7785/THREADCOUNTY) |
 
-<br/>
 
-<div align="center">
-  <h3>📌 Top Pinned Repositories</h3>
-  <a href="https://github.com/Daksh7785/PROFILE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh7785&repo=PROFILE&theme=tokyonight&show_icons=true" alt="Pinned Repo 1" />
-  </a>
-</div>
 
 ---
 
