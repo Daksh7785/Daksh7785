@@ -145,6 +145,45 @@
 
 ---
 
+## ⚡ Vibe Coding & AI-Native Development Toolkit
+
+> "I treat AI agents as senior pair programmers — my job is to write the spec precisely enough that the agent ships correct, production-ready code on the first pass."
+
+### 🤖 Trending Vibe Coding / Agentic IDEs & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Antigravity-1E1E1E?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Cursor-FFFFFF?style=for-the-badge&logo=cursor&logoColor=black" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Windsurf-181717?style=for-the-badge&logo=codeium&logoColor=white" alt="Windsurf" />
+  <img src="https://img.shields.io/badge/Replit_Agent-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Agent" />
+  <img src="https://img.shields.io/badge/Bolt.new-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Bolt.new" />
+  <img src="https://img.shields.io/badge/v0_by_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="v0 by Vercel" />
+  <img src="https://img.shields.io/badge/Lovable-000000?style=for-the-badge&logo=lovable&logoColor=white" alt="Lovable" />
+  <img src="https://img.shields.io/badge/Copilot_Workspace-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot Workspace" />
+  <img src="https://img.shields.io/badge/Gemini_Code_Assist-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini Code Assist" />
+</p>
+
+### 🎯 Core Vibe Coding Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Master_Prompt_Engineering-333333?style=flat-square&logoColor=white" alt="Master Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Context_Engineering-333333?style=flat-square&logoColor=white" alt="Context Engineering" />
+  <img src="https://img.shields.io/badge/Agent_Orchestration-333333?style=flat-square&logoColor=white" alt="Agent Orchestration" />
+  <img src="https://img.shields.io/badge/AI_Output_Review_%26_Hardening-333333?style=flat-square&logoColor=white" alt="AI Output Review & Hardening" />
+  <img src="https://img.shields.io/badge/Rapid_Prototyping-333333?style=flat-square&logoColor=white" alt="Rapid Prototyping" />
+  <img src="https://img.shields.io/badge/Prompt--to--Production_Pipeline-333333?style=flat-square&logoColor=white" alt="Prompt-to-Production Pipeline" />
+  <img src="https://img.shields.io/badge/Multi--Agent_Tool_Fluency-333333?style=flat-square&logoColor=white" alt="Multi-Agent Tool Fluency" />
+</p>
+
+- **Master Prompt / Spec Engineering** — writing zero-placeholder, production-grade build specifications that agentic tools can execute end-to-end.
+- **Context Engineering** — structuring codebase context, file trees, and constraints so AI agents generate accurate, non-duplicated code.
+- **Agent Orchestration** — sequencing multi-step workflows (plan → scaffold → implement → test → refine) across tools like Antigravity and Claude Code.
+- **AI Output Review & Hardening** — auditing AI-generated code for security, edge cases, and architectural fit before merge.
+- **Rapid Prototyping** — 0-to-MVP app generation using Bolt.new/Lovable/v0 for hackathons and idea validation.
+- **Prompt-to-Production Pipeline Design** — converting rough ideas into structured, agent-executable specs.
+- **Multi-Agent Tool Fluency** — comfortably switching between Claude, Gemini, Antigravity, and Copilot depending on task type.
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
